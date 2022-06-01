@@ -1,3 +1,3 @@
-Texto incluído na feature/DTB-002 e alterado na feature/DTB-003
+Texto incluído na feature/DTB-002 e alterado na feature/DTB-003 - Agora veja se ficou bom.
 Mais um texto incluído na feature/DTB-002
 Texto incluído na feature/DTB-003
